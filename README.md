@@ -1,2 +1,1 @@
-# PrepCourse-Sebastian
-Este es un modelo de prueba del modulo2 de Sebastian
+Este proyecto es una prueba de como crear un repositorio y como clonarlo desde GitHub a mi computadora.
